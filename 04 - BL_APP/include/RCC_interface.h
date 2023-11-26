@@ -1,7 +1,7 @@
 /************************************************/
-/*  Auther: Omar Gamal							*/
-/*  Version: V01								*/
-/* 	Date: 8 August 2020							*/
+/* Author      : Yomna Ayman                    */
+/* Version     : v01 (Bl)                       */
+/* date        : 11/10/2022                     */
 /************************************************/
 #ifndef _RCC_INTERFACE_H
 #define _RCC_INTERFACE_H
