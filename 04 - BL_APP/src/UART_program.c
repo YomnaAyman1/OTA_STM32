@@ -1,8 +1,8 @@
 /*******************************************************************************
 * Title                 :   UART 
 * Filename              :   UART_program.c
-* Author                :   Mohamed Hafez
-* Origin Date           :   19/09/2020
+* Author                :   Yomna Ayman
+* Origin Date           :   19/10/2022
 * Version               :   1.0.0
 * Compiler              :   TODO: COMPILER GOES HERE
 * Target                :   TODO: MCU GOES HERE
@@ -12,7 +12,7 @@
 /*************** SOURCE REVISION LOG *****************************************
 *
 *    Date    Version   Author          Description 
-*  19/09/20   1.0.0   Mohamed Hafez   Initial Release.
+*  19/10/22   1.0.0   Yomna Ayman   Initial Release.
 *
 *******************************************************************************/
 /** @file UART_program.c
