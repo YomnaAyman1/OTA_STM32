@@ -1,8 +1,8 @@
 /****************************************************************************
 * Title                 :   FPEC   
 * Filename              :   FPEC_config.h
-* Author                :   Mohamed Hafez
-* Origin Date           :   13/10/2020
+* Author                :   Yomna Ayman
+* Origin Date           :   10/9/2022
 * Version               :   1.0.0
 * Compiler              :   TODO: COMPILER GOES HERE
 * Target                :   TODO: MCU GOES HERE
