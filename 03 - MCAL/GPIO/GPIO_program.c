@@ -1,7 +1,7 @@
 /*****************************************************/
- /* Author      : Abdelrhman Mosad                   */
+ /* Author      : Yomna Ayman                        */
  /* Version     : v01 (Bl)                           */
- /* date        : 21/10/2020                         */
+ /* date        : 1/10/2022                          */
 /*****************************************************/
 /* Library includes */
 #include "BIT_MATH.h"
