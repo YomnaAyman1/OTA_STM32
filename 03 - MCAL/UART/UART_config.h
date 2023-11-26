@@ -1,8 +1,8 @@
 /****************************************************************************
 * Title                 :   UART   
 * Filename              :   UART_config.h
-* Author                :   Mohamed Hafez
-* Origin Date           :   19/09/2020
+* Author                :   Yomna Ayman
+* Origin Date           :   5/10/2022
 * Version               :   1.0.0
 * Compiler              :   TODO: COMPILER GOES HERE
 * Target                :   TODO: MCU GOES HERE
@@ -16,7 +16,7 @@
 /*************** INTERFACE CHANGE LIST **************************************
 *
 *    Date    Version   Author          Description 
-*  19/09/20   1.0.0   Mohamed Hafez   Interface Created.
+*  5/10/2022   1.0.0   Yomna Ayman   Interface Created.
 *
 *****************************************************************************/
 /** @file  UART_UART_config.h
